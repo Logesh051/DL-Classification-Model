@@ -153,21 +153,21 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 ### Dataset Information
 
-![Screenshot 2025-03-27 142202](https://github.com/user-attachments/assets/dc0ace5c-9629-4c95-8931-bf70719cd9b9)
+![Screenshot 2025-03-28 161937](https://github.com/user-attachments/assets/3f9216c2-57b9-4c53-8f7b-ee868ef7d54e)
 
 ### OUTPUT
 
 ## Confusion Matrix
 
-![Screenshot 2025-03-27 142235](https://github.com/user-attachments/assets/ec71abaa-a631-4fed-8114-ae27a9d2ba25)
+![Screenshot 2025-03-28 162008](https://github.com/user-attachments/assets/09518c8d-08c5-4c70-a303-09ea6430293b)
 
 ## Classification Report
 
-![Screenshot 2025-03-27 142255](https://github.com/user-attachments/assets/c641d50b-b5ea-4af9-97d7-ba7614d15aa5)
+![Screenshot 2025-03-28 162020](https://github.com/user-attachments/assets/65fd35bd-5f43-4c5e-8407-1c1a533da0d2)
 
 ### New Sample Data Prediction
 
-![Screenshot 2025-03-27 142323](https://github.com/user-attachments/assets/2a9dbc7a-7e2b-458f-99ed-de9d3d9e6e6e)
+![Screenshot 2025-03-28 162031](https://github.com/user-attachments/assets/03805d23-235d-4e77-b31e-e5c3afb1be6a)
 
 ## RESULT
 
